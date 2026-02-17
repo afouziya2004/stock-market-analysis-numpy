@@ -26,3 +26,8 @@ NSE Stock Market daily price data (Open, High, Low, Close, Volume)
 ## How to Run
 python src/statistical_metrics.py  
 python src/volatility_analysis.py
+
+## Visual Insights
+- Closing price trend analysis
+- Daily returns volatility visualization
+- Price distribution analysis
